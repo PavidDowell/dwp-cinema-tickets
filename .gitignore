@@ -1,23 +1,7 @@
 HELP.md
-.gradle
-/bin/
-build/
-!gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
-!**/src/test/**/build/
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
+# Exclude target
+/target/
 ### IntelliJ IDEA ###
 .idea
 *.iws
